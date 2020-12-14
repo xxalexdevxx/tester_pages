@@ -1,4 +1,4 @@
-# tester_pages
+# Test Pages
 
 This project will:
 * have a wiki
